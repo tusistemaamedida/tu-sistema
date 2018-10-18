@@ -438,8 +438,6 @@
 		});
 	}
 	
-
-
 	function galleryMasonaryLayout() {
 	    if ($('.masonary-layout').length) {
 	        $('.masonary-layout').isotope({
