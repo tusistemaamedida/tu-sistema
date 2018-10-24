@@ -231,7 +231,7 @@
                             <div class="icon-box"><span class="flaticon-diamond"></span></div>
                         </figure>
                         <div class="lower-box">
-                            <h3><a href="service-single.html">Diseño web UX/UI</a></h3>
+                            <h3><a>Diseño web UX/UI</a></h3>
                             <div class="text">Desde la investigación y la arquitectura de la información, al diseño inteligente y pensado en el usuario.
                             </div>
                         </div>
@@ -249,7 +249,7 @@
                             <div class="icon-box"><span class="flaticon-presentation-1"></span></div>
                         </figure>
                         <div class="lower-box">
-                            <h3><a href="service-single.html">Desarrollo Móvil</a></h3>
+                            <h3><a>Desarrollo Móvil</a></h3>
                             <div class="text">Desarrollo de aplicaciones hibridas multiplataformas (IOS/ANDROID).
                             de gran capidad y velocidad.</div>
                         </div>
@@ -267,7 +267,7 @@
                             <div class="icon-box"><span class="flaticon-monitor"></span></div>
                         </figure>
                         <div class="lower-box">
-                            <h3><a href="service-single.html">Diseño y Desarrollo Web</a></h3>
+                            <h3><a>Diseño y Desarrollo Web</a></h3>
                             <div class="text">Creamos plataformas únicas pensadas en las necesidades e ideas de nuestros clientes.</div>
                         </div>
                     </div>
